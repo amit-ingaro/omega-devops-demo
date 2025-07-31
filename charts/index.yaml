@@ -6,7 +6,7 @@ entries:
     created: "2025-07-31T11:19:46.987817+05:30"
     description: A Helm chart for deploy omega sample workflow
     digest: a57463e2c21346807e2e36ca447684824d717c3c91ff89bdec34d2d728e92a4a
-    name: Library
+    name: library
     type: application
     urls:
     - Library-0.1.0.tgz
